@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Huzaifa Awan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=F78D1D&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Odoo+ERP+Functional+Consultant+%7C+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=F78D1D&center=true&vCenter=true&width=935&lines=Data+Analyst+%7C+Odoo+ERP+Functional+Consultant+%7C+Web+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_BANNER_IMAGE_URL.jpg" alt="Banner" width="100%">
+  <img src="" alt="Banner" width="100%">
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F78D1D&center=true&vCenter=true&width=400&lines=I+am+a+versatile+professional+with+a+strong+foundation+in+Data+Analytics!;Specializing+in+Odoo+ERP+Consulting%2C+Data+Science%2C+and+Web+Development.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=F78D1D&center=true&vCenter=true&width=1200&lines=I+am+a+versatile+professional+with+a+strong+foundation+in+Data+Analytics!;Specializing+in+Odoo+ERP+Consulting%2C+Data+Science%2C+and+Web+Development.">
   </p>
 </div>
 
