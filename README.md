@@ -72,10 +72,10 @@ Additionally, my **web development** skills enable me to create user-friendly we
 
 ---
 
-## 🌱 Current Projects
+## 🌱 Current Interests
 
 - Advancing skills in **Odoo functional development** to improve business automation
-- Exploring **Machine Learning** techniques for enhanced predictive analytics
+- Exploring **Data Science and Machine Learning** techniques for enhanced predictive analytics
 
 ---
 
