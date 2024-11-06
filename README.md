@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="mailto:huzaifaawan88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/huzaifa-awan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/huzaifaawan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.devpii.com"><img src="https://img.shields.io/badge/Website-1d2b3a?style=flat-square&logo=About.me&logoColor=white"/></a>
 </p>
 
