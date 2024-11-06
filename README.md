@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm Huzaifa Awan 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=F78D1D&center=true&vCenter=true&width=935&lines=Data+Analyst+%7C+Odoo+ERP+Functional+Consultant+%7C+Web+Developer" alt="Typing SVG" />
+  <img src="https://github.com/huzaifa-awan/huzaifa-awan/blob/main/huzaifaawan88%40gmail.com%20(1).png" alt="Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="" alt="Banner" width="100%">
+<h1 align="center"> Hi, I'm Huzaifa Awan  👋</h1>
+
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=6000&pause=950&color=F78D1D&center=true&vCenter=true&width=935&lines=Data+Analyst+%7C+Odoo+ERP+Functional+Consultant+%7C+Web+Developer" alt="Typing SVG" />
+
 </p>
+
+
 
 ---
 
@@ -20,15 +23,15 @@
 
 ## 👨‍💼 About Me
 
-<p align="right">
-  <img src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif" alt="Animated GIF" width="300"/>
-</p>
+
 
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=F78D1D&center=true&vCenter=true&width=1200&lines=I+am+a+versatile+professional+with+a+strong+foundation+in+Data+Analytics!;Specializing+in+Odoo+ERP+Consulting%2C+Data+Science%2C+and+Web+Development.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=800&color=F78D1D&center=true&vCenter=true&width=1200&lines=I+am+a+versatile+professional+with+a+strong+foundation+in+Data+Analytics!;Specializing+in+Odoo+ERP+Consulting%2C+Data+Science%2C+and+Web+Development.">
   </p>
 </div>
+
+
 
 I am a **versatile professional** with a solid foundation in **data analytics**—skilled at extracting actionable insights that drive data-informed decisions. Leveraging my **data science** skills, I employ advanced analytical techniques in **Python** to solve complex challenges and enhance data-driven strategies.
 
@@ -36,7 +39,15 @@ As a **Co-founder of Devpii**, I focus on delivering customized software solutio
 
 Additionally, my **web development** skills enable me to create user-friendly websites, contributing to business operations and digital outreach, while my commitment to continuous learning empowers me to drive sustainable growth and innovation.
 
+
+
 ## 🛠️ Skills
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966" alt="Animated GIF" width="600"/>
+</p>
+
+<br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analytics-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -55,19 +66,9 @@ Additionally, my **web development** skills enable me to create user-friendly we
 - **Data Analytics**: Proficient in **Excel**, **Power BI**, **Python**, **SQL**, and **C++** to gather, analyze, and interpret data, uncovering trends that guide strategic decisions.
 - **Odoo ERP Consulting**: Skilled in **Odoo** implementations, streamlining workflows, and delivering ERP solutions tailored to enhance business operations and improve organizational efficiency.
 - **Web Development**: Experience with **HTML/CSS** for building intuitive websites that enhance business visibility and user experience.
-
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Huzaifa's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
 
 ---
 
